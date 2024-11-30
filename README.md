@@ -8,7 +8,6 @@
 🔧 **About Me**  
 I’m a Senior Software Engineer with over 8 years of experience in backend development, specializing in microservices, event-driven architectures, and scalable system design, having worked at various startups based in São Paulo, including unicorns like Loggi and Neon. I’m passionate about mentoring, collaboration, and contributing to innovative projects that solve real-world problems.
 
-
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=dgaramos&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak">
