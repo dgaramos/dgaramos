@@ -9,12 +9,14 @@ I’m a Senior Software Engineer with over 8 years of experience in backend deve
   </a>
 </div>
 
-## 💻 My Technology Stack
+## 💻 My Main Technology Stack
 
-<code><img height="40" alt="kotlin" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png"></code>
-<code><img height="40" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="40" alt="docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
-<code><img height="40" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
+<div align="center">
+  <code><img height="40" alt="kotlin" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png"></code>
+  <code><img height="40" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+  <code><img height="40" alt="docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+  <code><img height="40" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
+</div>
 
 ---
 
