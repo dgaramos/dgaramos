@@ -1,8 +1,5 @@
 ## Hi there 👋 I am Danilo Ramos, but you can call me Don!
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dgaramos)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dgaramos@gmail.com)
-
 🔧 **About Me**  
 I’m a Senior Software Engineer with over 8 years of experience in backend development, specializing in microservices, event-driven architectures, and scalable system design, having worked at various startups based in São Paulo, including unicorns like Loggi and Neon. I’m passionate about mentoring, collaboration, and contributing to innovative projects that solve real-world problems.
 
@@ -23,4 +20,7 @@ I’m a Senior Software Engineer with over 8 years of experience in backend deve
 
 ---
 
-Thank you for visiting my profile! Feel free to reach out or explore my projects. 😊
+Thank you for visiting my profile! Feel free to reach out on my LinkedIn or email and explore my projects. 😊
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dgaramos)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dgaramos@gmail.com)
