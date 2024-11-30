@@ -9,8 +9,6 @@ I’m a Senior Software Engineer with over 8 years of experience in backend deve
   </a>
 </div>
 
----
-
 ## 💻 My Technology Stack
 
 <code><img height="40" alt="kotlin" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png"></code>
