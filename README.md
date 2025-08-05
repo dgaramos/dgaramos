@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Danilo Ramos, but you can call me Don!
 
 🔧 **About Me**  
-I’m a Senior Software Engineer with over 8 years of experience in backend development, specializing in microservices, event-driven architectures, and scalable system design, having worked at various startups based in São Paulo, including unicorns like Loggi and Neon. I’m passionate about mentoring, collaboration, and contributing to innovative projects that solve real-world problems.
+I’m a Senior Software Engineer with over 9 years of experience in backend development, specializing in microservices, event-driven architectures, and scalable system design, having worked at various startups based in São Paulo, including unicorns like Loggi and Neon. I’m passionate about mentoring, collaboration, and contributing to innovative projects that solve real-world problems.
 
 <div align="center">
   <a href="https://git.io/streak-stats">
