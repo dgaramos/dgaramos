@@ -1,23 +1,37 @@
-## Hi there 👋 I’m Danilo Ramos, but you can call me Don!
+## Hi 👋 I’m Danilo Ramos, but you can call me Don.
 
-🔧 **About Me**  
-I’m a Senior Software Engineer with over 9 years of experience in backend development. I specialize in Kotlin, Python, microservices, event-driven architectures, and scalable system design. I’ve worked in high-growth startups, unicorns, and now in a large, privately held edtech company, contributing to impactful projects across logistics, finance, healthtech, and education.
+I’m a **Software Engineer focused on backend systems**, with 9+ years of experience building and evolving software across logistics, fintech, healthtech, and education.
 
-I believe in understanding the problem before writing code. I’m passionate about building maintainable systems, mentoring teammates, and improving engineering culture. Throughout my journey, I’ve introduced architectural improvements, helped junior developers ramp up quickly, and created tools that streamlined operations for multiple teams.
+My main stack is **Kotlin, Spring Boot, PostgreSQL, Docker, and event-driven architectures**, with a strong interest in distributed systems, reliability, observability, and developer experience.
 
-## 💻 My Main Technology Stack
+I tend to work beyond the feature itself: understanding the problem, questioning system boundaries, improving architecture, adding tests and observability, documenting decisions, and making the next engineer’s job easier.
+
+Over the years, I’ve worked on microservices, asynchronous workflows, internal platforms, operational tooling, and systems running at scale.
+
+More recently, I’ve spent a significant amount of time working around **LLM-powered products**, including conversational platforms, context and retrieval workflows, file ingestion, agent integrations, and the operational challenges of running AI-enabled systems in production.
+
+I also actively explore **AI-assisted software engineering** as part of my day-to-day workflow. I use tools such as **Codex, Claude, and Cursor** for implementation, codebase exploration, technical research, debugging, documentation, and automation.
+
+Outside of work, I maintain a small **homelab** where I experiment with Linux, containers, networking, observability, self-hosted services, and whatever seems worth taking apart next.
+
+## 🔧 Main Stack
 
 <div align="center">
   <code><img height="40" alt="kotlin" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png"></code>
-  <code><img height="40" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-  <code><img height="40" alt="docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+  <code><img height="40" alt="spring" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png"></code>
   <code><img height="40" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
+  <code><img height="40" alt="docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+  <code><img height="40" alt="linux" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
 </div>
+
+## 🧠 Currently Interested In
+
+`Kotlin` · `Distributed Systems` · `Event-Driven Architecture` · `AI-Assisted Engineering` · `Observability` · `Developer Experience` · `Self-Hosting`
 
 ---
 
-📬 **Let’s Connect**  
-Thanks for stopping by! Feel free to connect with me on LinkedIn or drop me an email.
+## 📬 Let’s Connect
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dgaramos)  
+[![linkedin](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dgaramos)
+
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dgaramos@gmail.com)
