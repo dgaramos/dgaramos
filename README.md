@@ -2,15 +2,17 @@
 
 I’m a **Software Engineer focused on backend systems**, with 9+ years of experience building and evolving software across logistics, fintech, healthtech, and education.
 
-My main stack is **Kotlin, Spring Boot, PostgreSQL, Docker, and event-driven architectures**, with a strong interest in distributed systems, reliability, observability, and developer experience.
+My main backend stack is **Kotlin, Spring Boot, PostgreSQL, and Docker**, and I also use **Python** extensively for automation, tooling, AI-related work, and personal projects.
+
+I’m particularly interested in **distributed systems, event-driven architectures, reliability, observability, and developer experience**.
 
 I tend to work beyond the feature itself: understanding the problem, questioning system boundaries, improving architecture, adding tests and observability, documenting decisions, and making the next engineer’s job easier.
 
 Over the years, I’ve worked on microservices, asynchronous workflows, internal platforms, operational tooling, and systems running at scale.
 
-More recently, I’ve spent a significant amount of time working around **LLM-powered products**, including conversational platforms, context and retrieval workflows, file ingestion, agent integrations, and the operational challenges of running AI-enabled systems in production.
+More recently, I’ve spent a significant amount of time working with **LLM-powered products**, including conversational platforms, context and retrieval workflows, file ingestion, agent integrations, and the operational challenges of running AI-enabled systems in production.
 
-I also actively explore **AI-assisted software engineering** as part of my day-to-day workflow. I use tools such as **Codex, Claude, and Cursor** for implementation, codebase exploration, technical research, debugging, documentation, and automation.
+I also actively use **AI-assisted software engineering** in my day-to-day workflow. Tools such as **Codex, Claude, and Cursor** are part of how I approach implementation, codebase exploration, technical research, debugging, documentation, and automation.
 
 Outside of work, I maintain a small **homelab** where I experiment with Linux, containers, networking, observability, self-hosted services, and whatever seems worth taking apart next.
 
@@ -19,6 +21,7 @@ Outside of work, I maintain a small **homelab** where I experiment with Linux, c
 <div align="center">
   <code><img height="40" alt="kotlin" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png"></code>
   <code><img height="40" alt="spring" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png"></code>
+  <code><img height="40" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
   <code><img height="40" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
   <code><img height="40" alt="docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
   <code><img height="40" alt="linux" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
@@ -26,7 +29,7 @@ Outside of work, I maintain a small **homelab** where I experiment with Linux, c
 
 ## 🧠 Currently Interested In
 
-`Kotlin` · `Distributed Systems` · `Event-Driven Architecture` · `AI-Assisted Engineering` · `Observability` · `Developer Experience` · `Self-Hosting`
+`Kotlin` · `Python` · `Distributed Systems` · `Event-Driven Architecture` · `AI-Assisted Engineering` · `Observability` · `Developer Experience` · `Self-Hosting`
 
 ---
 
