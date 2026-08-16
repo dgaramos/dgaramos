@@ -16,6 +16,14 @@ I also actively use **AI-assisted software engineering** in my day-to-day workfl
 
 Outside of work, I maintain a small **homelab** where I experiment with Linux, containers, networking, observability, self-hosted services, and whatever seems worth taking apart next.
 
+## ⭐ Featured projects
+
+- [**CraftControl**](https://github.com/dgaramos/craftcontrol) — mobile-first control center for self-hosted Minecraft Bedrock servers, with backups, access control, telemetry, and a documented modular-monolith architecture.
+- [**Transaction Authorizer**](https://github.com/dgaramos/transaction-authorizer) — Kotlin/Spring Boot REST API demonstrating domain routing, PostgreSQL persistence, Flyway migrations, and hexagonal architecture.
+- [**Homelab exporters**](https://github.com/dgaramos/minecraft-bedrock-exporter) — security-conscious Prometheus exporters for Minecraft Bedrock, AdGuard Home, and a PS3 running webMAN MOD.
+
+These projects reflect the intersection I enjoy most: backend engineering, operational tooling, observability, and systems that are useful outside a toy example.
+
 ## 🔧 Main Stack
 
 <div align="center">
