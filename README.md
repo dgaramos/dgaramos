@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/profile-banner.png" alt="Pixel-art portrait of Danilo Ramos giving a salute" width="100%">
+</p>
+
 ## Hi 👋 I’m Danilo Ramos, but you can call me Don.
 
 I’m a **backend software engineer** who enjoys turning complex operational problems into reliable, observable and maintainable systems. Over 9+ years, I’ve worked across logistics, fintech, healthtech and education.
@@ -6,7 +10,7 @@ My main stack is **Kotlin, Spring Boot, PostgreSQL and Docker**. I also use **Py
 
 I care about more than making software work: domain modeling, system boundaries, failure modes, testing, operational visibility and making the next change safer. I’ve worked with microservices, asynchronous workflows, internal platforms, integrations and systems running at scale.
 
-More recently, I’ve been building **LLM-powered products**, including conversational platforms, retrieval and context workflows, file ingestion and agent integrations. I also use AI-assisted engineering tools such as **Codex, Claude and Cursor** as part of implementation, research, debugging, documentation and automation.
+More recently, I’ve been building **LLM-powered products**, including conversational platforms, retrieval and context workflows, file ingestion and agent integrations. I also maintain [**dr-agents**](https://github.com/dgaramos/dr-agents), a portable workflow catalog for Codex and Claude Code. AI-assisted engineering tools such as **Codex, Claude and Cursor** are part of my implementation, research, debugging, documentation and automation practice.
 
 Outside work, I maintain a small **homelab** where I experiment with Linux, containers, networking, observability and self-hosted services.
 
@@ -16,6 +20,10 @@ Outside work, I maintain a small **homelab** where I experiment with Linux, cont
 
 - [**CraftControl**](https://github.com/dgaramos/craftcontrol) — a mobile-first control center for self-hosted Minecraft Bedrock servers, with access control, backups, telemetry and a documented modular-monolith architecture.
 - [**Transaction Authorizer**](https://github.com/dgaramos/transaction-authorizer) — a Kotlin/Spring Boot API demonstrating domain routing, PostgreSQL persistence, Flyway migrations and hexagonal architecture.
+
+### AI-assisted engineering
+
+- [**dr-agents**](https://github.com/dgaramos/dr-agents) — reusable, model-neutral workflows for design discovery, pull-request review, finding triage, issue authoring and issue-to-change execution across Codex and Claude Code.
 
 ### Observability and operations
 
